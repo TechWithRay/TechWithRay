@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruiren1225
+- 👋 Hi, I’m @TechWithRay
 - 👀 I’m interested in Software Development, AI 
 - 🌱 I’m currently learning Full-stack AI development
 - 💞️ I’m looking to collaborate on Natural Language Processing
