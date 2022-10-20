@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TechWithRay
-- 👀 I’m interested in Software Development, AI 
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full-stack AI development
-- 💞️ I’m looking to collaborate on Natural Language Processing
-- 📫 ruiren1225@gmail.com
+- 💞️ I’m looking to collaborate on Front-end, Backend and AI
+- 📫 newbeetoniubee@gmail.com
 
 <!---
 ruiren1225/ruiren1225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
