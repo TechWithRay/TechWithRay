@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TechWithRay
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Full-stack & AI development
-- 💞️ I’m looking to collaborate on Front-end, Backend and AI
+- 👀 I’m interested in Large Language Models and AIGC
+- 🌱 I’m a software engineer, AI
 - 📫 Contact me: newbeetoniubee@gmail.com
 - 💞️ Youtube [TechWithRay](https://www.youtube.com/channel/UCfYBiKY2akPeHuXe4o_p_fw)
 
