@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TechWithRay
-- 👀 I’m interested in Large Language Models (LLMs) and AGI
-- 🌱 I’m a software engineer, AI Engineer
-- 📫 Contact me: newbeetoniubee@gmail.com
-- 💞️ Youtube
+- 👀 I’m interested in Large Language Models (LLMs) and Robotics
+- 🌱 I’m a AI Engineer
+- 💞️ Robotics & AI
 
 <!---
 --->
